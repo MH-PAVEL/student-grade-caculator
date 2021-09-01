@@ -2,10 +2,10 @@
 live link: https://mh-pavel.github.io/student-grade-caculator/
 
 ## Features
-student check his/her result grade .
+students can check their result grade .
 
 ### student-grade-calculator
-- use core javaScript and core functionality .
+- I have used Javascript(es6) in this project .
 
 
 ### Technology Used 
